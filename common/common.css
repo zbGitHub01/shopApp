@@ -1,0 +1,14 @@
+/*全局样式*/
+
+/*默认字体颜色*/
+.f-color{
+	color: #636263;
+}
+/*选中的字体颜色*/
+.f-color-active{
+	color: #49BDFB;
+}
+/*背景颜色*/
+.bg-color{
+	background-color: #42B7Fb;
+}
